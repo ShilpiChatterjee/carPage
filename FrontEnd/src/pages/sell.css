@@ -1,0 +1,31 @@
+/* form{
+    margin-top: 80px;
+    border: 1px solid red;
+}
+
+form input{
+
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 300px;
+    height: 35px;
+    padding: 10px;
+} */
+
+#buu value{
+    color: black;
+}
+.s2 form{
+    margin-top: 80px;
+    /* border: 1px solid red; */
+
+}
+.s2 input{
+
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    width: 300px;
+    height: 35px;
+    padding: 10px;
+}
+#buu input{
+    color: black;
+}
