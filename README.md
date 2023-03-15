@@ -85,13 +85,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Faizan7012/Activity-Tracker.git
+  
 ```
 
 Go to the project directory
 
 ```bash
-  cd activity-tracker
+  cd 
 ```
 
 Install dependencies
@@ -107,7 +107,7 @@ Start the server
 ```
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Thank You! ; .....Please do rate our Project 😊 👨🏻‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Thank You! ; .....Please do rate my Project 😊 👨🏻‍💻;&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 
