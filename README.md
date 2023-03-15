@@ -5,7 +5,6 @@
 >Its a car selling website you can sell or buy your car by providing your details and also there is emi calculator also where you can check ur  month EMI and installment
 
 <p align="center">
-  <a href="https://activity-tracker-orpin.vercel.app">
     <img src="https://readme-typing-svg.demolab.com/?lines=Shilpi E Showroom ; ..... you can sell or buy your car by providing your details  👨🏻‍💻; Through%20this%20App%20%20!&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
@@ -27,7 +26,7 @@
 </div>
 
 
-<h3 align="left"><a href="https://activity-tracker-orpin.vercel.app" target="_blank">Shilpi E Showroom</a></h3>
+<h3 align="left"><a href="#" target="_blank">Shilpi E Showroom</a></h3>
 
 <h2>Project Outcome</h2>
 <p>Gained great experience of ReactJs, Express, Node, Google Auth and Chakra UI</p>
